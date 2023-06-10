@@ -1,0 +1,34 @@
+Functionality (30 points)
+---------------------------------------
+Ability to add new crops to the farm (5 points): 
+Registration of crop instances (5 points):  
+Total count of each crop (5 points): 
+Dislay of crop details including planting duration, days until harvest, and expected profit (15 points): 
+
+Day Tracking and Harvesting (10 points)
+---------------------------------------
+Track the day in the farm (3 points): 
+Increment the day in a function (2 points): 
+Automatic crop harvesting (5 points): 
+
+Budget Management (10 points)
+---------------------------------------
+Accurate calculation of the profit for each crop instance (5 points): 
+Farm Budget update after harvesting crops (5 points):  
+
+Code Quality (15 points)
+---------------------------------------
+Memory management, no memory leaks (10 points): 
+Code organization and readability, proper naming conventions, comments, and indentation (5 points):  
+
+Test Cases (20 points)
+---------------------------------------
+Test coverage -- comprehensive set of test cases to cover different scenarios and functionalities (10 points):  
+Test accuracy -- test cases correctly evaluate the expected behavior of the system (10 points):  
+
+Readme / Documentation (15 points)
+---------------------------------------
+Readme is updated underthe picture to explain challeneges in the projecta nd how to run the code and a description of the workflow (15 points): 
+
+Total Possible Points: 100  
+Student Actual Points:   
